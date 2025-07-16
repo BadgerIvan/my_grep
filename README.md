@@ -28,5 +28,5 @@ Supported flags:
 
 ## Run tests
 ```bash
-./my_grep_test
+make test
 ```
